@@ -17,11 +17,10 @@ Education
 
 Work experience
 ======
-*  Aug 2019 - June 2020: Computer Vision Engineer (Internship)
+ *  Aug 2019 - June 2020: Computer Vision Engineer (Internship)
   * University of Tours
-  * Tours France  
-
-* May 2013 - April 2014: Electrical Automation Technician
+  * Tours France 
+ *  May 2013 - April 2014: Electrical Automation Technician
   * USHA International Ltd
   * Hyderabad India 
  
